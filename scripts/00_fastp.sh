@@ -1,5 +1,4 @@
 #!/bin/bash
-### usage : PART OF STANDARD PIPELINE ###
  
 # input directories
 DATA_DIR=$1
