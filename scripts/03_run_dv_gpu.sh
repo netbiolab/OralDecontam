@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # input parameters
 REFERENCE="2.no_alt_GRCh38"
 CALLER="2.DV"
