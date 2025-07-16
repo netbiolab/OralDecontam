@@ -30,7 +30,7 @@ git clone https://github.com/your-username/kraken2-human-nonhuman-split.git
 cd kraken2-human-nonhuman-split
 Install any missing Python dependencies:
 
-pip install -r requirements.txt  # if you modularize requirements
+pip install -r requirements.txt
 Usage
 Basic CLI Example
 python kraken2_split_pipeline.py \
