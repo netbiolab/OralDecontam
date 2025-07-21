@@ -11,15 +11,11 @@ The tool is built in Python and designed to work with large-scale metagenomic or
 
 Ideal for oral samples (e.g. saliva, buccal swab) before alignment for genotpying purposes.
 
----
-
 ## Requirements
 
 - Python 3.7+
 - [`Kraken2`](https://github.com/DerrickWood/kraken2) installed and in `$PATH`
 - Optional: `wget`, `curl`, or `aria2c` for DB download
-
----
 
 ## Installation
 
