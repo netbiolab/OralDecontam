@@ -9,7 +9,7 @@ The tool is built in Python and designed to work with large-scale metagenomic or
 
 ## Use Case
 
-Ideal for oral samples before alignment for genotpying purposes.
+Ideal for oral samples (e.g. saliva, buccal swab) before alignment for genotpying purposes.
 
 ---
 
