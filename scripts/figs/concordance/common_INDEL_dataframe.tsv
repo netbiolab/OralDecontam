@@ -1,0 +1,145 @@
+	Key	Type	Filter	Metric	Group	Value
+0	('PGPC-02', '1.saliva')	INDEL	PASS	F1 Score	eHOMD	0.955743
+1	('PGPC-02', '1.saliva')	INDEL	PASS	F1 Score	Raw	0.955827
+2	('PGPC-02', '1.saliva')	INDEL	PASS	F1 Score	HROM	0.955802
+3	('PGPC-02', '1.saliva')	INDEL	PASS	Precision	eHOMD	0.950099
+4	('PGPC-02', '1.saliva')	INDEL	PASS	Precision	Raw	0.950274
+5	('PGPC-02', '1.saliva')	INDEL	PASS	Precision	HROM	0.950238
+6	('PGPC-02', '1.saliva')	INDEL	PASS	Recall	eHOMD	0.961454
+7	('PGPC-02', '1.saliva')	INDEL	PASS	Recall	Raw	0.961446
+8	('PGPC-02', '1.saliva')	INDEL	PASS	Recall	HROM	0.961431
+9	('PGPC-02', '2.buccal')	INDEL	PASS	F1 Score	eHOMD	0.955501
+10	('PGPC-02', '2.buccal')	INDEL	PASS	F1 Score	Raw	0.955492
+11	('PGPC-02', '2.buccal')	INDEL	PASS	F1 Score	HROM	0.955506
+12	('PGPC-02', '2.buccal')	INDEL	PASS	Precision	eHOMD	0.9512
+13	('PGPC-02', '2.buccal')	INDEL	PASS	Precision	Raw	0.951223
+14	('PGPC-02', '2.buccal')	INDEL	PASS	Precision	HROM	0.951218
+15	('PGPC-02', '2.buccal')	INDEL	PASS	Recall	eHOMD	0.959841
+16	('PGPC-02', '2.buccal')	INDEL	PASS	Recall	Raw	0.959799
+17	('PGPC-02', '2.buccal')	INDEL	PASS	Recall	HROM	0.959832
+18	('PGPC-02', '3.saliva_enriched')	INDEL	PASS	F1 Score	eHOMD	0.959179
+19	('PGPC-02', '3.saliva_enriched')	INDEL	PASS	F1 Score	Raw	0.959235
+20	('PGPC-02', '3.saliva_enriched')	INDEL	PASS	F1 Score	HROM	0.959225
+21	('PGPC-02', '3.saliva_enriched')	INDEL	PASS	Precision	eHOMD	0.957362
+22	('PGPC-02', '3.saliva_enriched')	INDEL	PASS	Precision	Raw	0.957499
+23	('PGPC-02', '3.saliva_enriched')	INDEL	PASS	Precision	HROM	0.957488
+24	('PGPC-02', '3.saliva_enriched')	INDEL	PASS	Recall	eHOMD	0.961002
+25	('PGPC-02', '3.saliva_enriched')	INDEL	PASS	Recall	Raw	0.960976
+26	('PGPC-02', '3.saliva_enriched')	INDEL	PASS	Recall	HROM	0.960969
+27	('PGPC-02', '4.buccal_enriched')	INDEL	PASS	F1 Score	eHOMD	0.960119
+28	('PGPC-02', '4.buccal_enriched')	INDEL	PASS	F1 Score	Raw	0.960138
+29	('PGPC-02', '4.buccal_enriched')	INDEL	PASS	F1 Score	HROM	0.960139
+30	('PGPC-02', '4.buccal_enriched')	INDEL	PASS	Precision	eHOMD	0.959358
+31	('PGPC-02', '4.buccal_enriched')	INDEL	PASS	Precision	Raw	0.959425
+32	('PGPC-02', '4.buccal_enriched')	INDEL	PASS	Precision	HROM	0.95942
+33	('PGPC-02', '4.buccal_enriched')	INDEL	PASS	Recall	eHOMD	0.960881
+34	('PGPC-02', '4.buccal_enriched')	INDEL	PASS	Recall	Raw	0.960853
+35	('PGPC-02', '4.buccal_enriched')	INDEL	PASS	Recall	HROM	0.960859
+36	('PGPC-05', '1.saliva')	INDEL	PASS	F1 Score	eHOMD	0.935484
+37	('PGPC-05', '1.saliva')	INDEL	PASS	F1 Score	Raw	0.936212
+38	('PGPC-05', '1.saliva')	INDEL	PASS	F1 Score	HROM	0.936207
+39	('PGPC-05', '1.saliva')	INDEL	PASS	Precision	eHOMD	0.927992
+40	('PGPC-05', '1.saliva')	INDEL	PASS	Precision	Raw	0.929195
+41	('PGPC-05', '1.saliva')	INDEL	PASS	Precision	HROM	0.929174
+42	('PGPC-05', '1.saliva')	INDEL	PASS	Recall	eHOMD	0.943097
+43	('PGPC-05', '1.saliva')	INDEL	PASS	Recall	Raw	0.943335
+44	('PGPC-05', '1.saliva')	INDEL	PASS	Recall	HROM	0.943348
+45	('PGPC-05', '2.buccal')	INDEL	PASS	F1 Score	eHOMD	0.949384
+46	('PGPC-05', '2.buccal')	INDEL	PASS	F1 Score	Raw	0.949452
+47	('PGPC-05', '2.buccal')	INDEL	PASS	F1 Score	HROM	0.949441
+48	('PGPC-05', '2.buccal')	INDEL	PASS	Precision	eHOMD	0.953769
+49	('PGPC-05', '2.buccal')	INDEL	PASS	Precision	Raw	0.953884
+50	('PGPC-05', '2.buccal')	INDEL	PASS	Precision	HROM	0.953872
+51	('PGPC-05', '2.buccal')	INDEL	PASS	Recall	eHOMD	0.945038
+52	('PGPC-05', '2.buccal')	INDEL	PASS	Recall	Raw	0.945061
+53	('PGPC-05', '2.buccal')	INDEL	PASS	Recall	HROM	0.945051
+54	('PGPC-05', '3.saliva_enriched')	INDEL	PASS	F1 Score	eHOMD	0.948789
+55	('PGPC-05', '3.saliva_enriched')	INDEL	PASS	F1 Score	Raw	0.948996
+56	('PGPC-05', '3.saliva_enriched')	INDEL	PASS	F1 Score	HROM	0.948989
+57	('PGPC-05', '3.saliva_enriched')	INDEL	PASS	Precision	eHOMD	0.954263
+58	('PGPC-05', '3.saliva_enriched')	INDEL	PASS	Precision	Raw	0.954673
+59	('PGPC-05', '3.saliva_enriched')	INDEL	PASS	Precision	HROM	0.954668
+60	('PGPC-05', '3.saliva_enriched')	INDEL	PASS	Recall	eHOMD	0.943378
+61	('PGPC-05', '3.saliva_enriched')	INDEL	PASS	Recall	Raw	0.943386
+62	('PGPC-05', '3.saliva_enriched')	INDEL	PASS	Recall	HROM	0.943377
+63	('PGPC-05', '4.buccal_enriched')	INDEL	PASS	F1 Score	eHOMD	0.951006
+64	('PGPC-05', '4.buccal_enriched')	INDEL	PASS	F1 Score	Raw	0.95104
+65	('PGPC-05', '4.buccal_enriched')	INDEL	PASS	F1 Score	HROM	0.951068
+66	('PGPC-05', '4.buccal_enriched')	INDEL	PASS	Precision	eHOMD	0.959443
+67	('PGPC-05', '4.buccal_enriched')	INDEL	PASS	Precision	Raw	0.959525
+68	('PGPC-05', '4.buccal_enriched')	INDEL	PASS	Precision	HROM	0.959553
+69	('PGPC-05', '4.buccal_enriched')	INDEL	PASS	Recall	eHOMD	0.942716
+70	('PGPC-05', '4.buccal_enriched')	INDEL	PASS	Recall	Raw	0.942704
+71	('PGPC-05', '4.buccal_enriched')	INDEL	PASS	Recall	HROM	0.942732
+72	('PGPC-06', '1.saliva')	INDEL	PASS	F1 Score	eHOMD	0.953047
+73	('PGPC-06', '1.saliva')	INDEL	PASS	F1 Score	Raw	0.953156
+74	('PGPC-06', '1.saliva')	INDEL	PASS	F1 Score	HROM	0.953159
+75	('PGPC-06', '1.saliva')	INDEL	PASS	Precision	eHOMD	0.948832
+76	('PGPC-06', '1.saliva')	INDEL	PASS	Precision	Raw	0.949053
+77	('PGPC-06', '1.saliva')	INDEL	PASS	Precision	HROM	0.949064
+78	('PGPC-06', '1.saliva')	INDEL	PASS	Recall	eHOMD	0.9573
+79	('PGPC-06', '1.saliva')	INDEL	PASS	Recall	Raw	0.957294
+80	('PGPC-06', '1.saliva')	INDEL	PASS	Recall	HROM	0.95729
+81	('PGPC-06', '2.buccal')	INDEL	PASS	F1 Score	eHOMD	0.956254
+82	('PGPC-06', '2.buccal')	INDEL	PASS	F1 Score	Raw	0.956358
+83	('PGPC-06', '2.buccal')	INDEL	PASS	F1 Score	HROM	0.956371
+84	('PGPC-06', '2.buccal')	INDEL	PASS	Precision	eHOMD	0.953948
+85	('PGPC-06', '2.buccal')	INDEL	PASS	Precision	Raw	0.95419
+86	('PGPC-06', '2.buccal')	INDEL	PASS	Precision	HROM	0.954199
+87	('PGPC-06', '2.buccal')	INDEL	PASS	Recall	eHOMD	0.958571
+88	('PGPC-06', '2.buccal')	INDEL	PASS	Recall	Raw	0.958535
+89	('PGPC-06', '2.buccal')	INDEL	PASS	Recall	HROM	0.958554
+90	('PGPC-06', '3.saliva_enriched')	INDEL	PASS	F1 Score	eHOMD	0.957782
+91	('PGPC-06', '3.saliva_enriched')	INDEL	PASS	F1 Score	Raw	0.957835
+92	('PGPC-06', '3.saliva_enriched')	INDEL	PASS	F1 Score	HROM	0.95782
+93	('PGPC-06', '3.saliva_enriched')	INDEL	PASS	Precision	eHOMD	0.957423
+94	('PGPC-06', '3.saliva_enriched')	INDEL	PASS	Precision	Raw	0.957579
+95	('PGPC-06', '3.saliva_enriched')	INDEL	PASS	Precision	HROM	0.957572
+96	('PGPC-06', '3.saliva_enriched')	INDEL	PASS	Recall	eHOMD	0.958142
+97	('PGPC-06', '3.saliva_enriched')	INDEL	PASS	Recall	Raw	0.958092
+98	('PGPC-06', '3.saliva_enriched')	INDEL	PASS	Recall	HROM	0.958067
+99	('PGPC-06', '4.buccal_enriched')	INDEL	PASS	F1 Score	eHOMD	0.959147
+100	('PGPC-06', '4.buccal_enriched')	INDEL	PASS	F1 Score	Raw	0.959166
+101	('PGPC-06', '4.buccal_enriched')	INDEL	PASS	F1 Score	HROM	0.95916
+102	('PGPC-06', '4.buccal_enriched')	INDEL	PASS	Precision	eHOMD	0.960947
+103	('PGPC-06', '4.buccal_enriched')	INDEL	PASS	Precision	Raw	0.960997
+104	('PGPC-06', '4.buccal_enriched')	INDEL	PASS	Precision	HROM	0.961004
+105	('PGPC-06', '4.buccal_enriched')	INDEL	PASS	Recall	eHOMD	0.957353
+106	('PGPC-06', '4.buccal_enriched')	INDEL	PASS	Recall	Raw	0.957342
+107	('PGPC-06', '4.buccal_enriched')	INDEL	PASS	Recall	HROM	0.957324
+108	('PGPC-50', '1.saliva')	INDEL	PASS	F1 Score	eHOMD	0.946218
+109	('PGPC-50', '1.saliva')	INDEL	PASS	F1 Score	Raw	0.946776
+110	('PGPC-50', '1.saliva')	INDEL	PASS	F1 Score	HROM	0.946731
+111	('PGPC-50', '1.saliva')	INDEL	PASS	Precision	eHOMD	0.940488
+112	('PGPC-50', '1.saliva')	INDEL	PASS	Precision	Raw	0.941492
+113	('PGPC-50', '1.saliva')	INDEL	PASS	Precision	HROM	0.941425
+114	('PGPC-50', '1.saliva')	INDEL	PASS	Recall	eHOMD	0.952018
+115	('PGPC-50', '1.saliva')	INDEL	PASS	Recall	Raw	0.95212
+116	('PGPC-50', '1.saliva')	INDEL	PASS	Recall	HROM	0.952097
+117	('PGPC-50', '2.buccal')	INDEL	PASS	F1 Score	eHOMD	0.956207
+118	('PGPC-50', '2.buccal')	INDEL	PASS	F1 Score	Raw	0.956285
+119	('PGPC-50', '2.buccal')	INDEL	PASS	F1 Score	HROM	0.956287
+120	('PGPC-50', '2.buccal')	INDEL	PASS	Precision	eHOMD	0.957437
+121	('PGPC-50', '2.buccal')	INDEL	PASS	Precision	Raw	0.957572
+122	('PGPC-50', '2.buccal')	INDEL	PASS	Precision	HROM	0.957565
+123	('PGPC-50', '2.buccal')	INDEL	PASS	Recall	eHOMD	0.95498
+124	('PGPC-50', '2.buccal')	INDEL	PASS	Recall	Raw	0.955001
+125	('PGPC-50', '2.buccal')	INDEL	PASS	Recall	HROM	0.955012
+126	('PGPC-50', '3.saliva_enriched')	INDEL	PASS	F1 Score	eHOMD	0.953179
+127	('PGPC-50', '3.saliva_enriched')	INDEL	PASS	F1 Score	Raw	0.953484
+128	('PGPC-50', '3.saliva_enriched')	INDEL	PASS	F1 Score	HROM	0.953471
+129	('PGPC-50', '3.saliva_enriched')	INDEL	PASS	Precision	eHOMD	0.953882
+130	('PGPC-50', '3.saliva_enriched')	INDEL	PASS	Precision	Raw	0.954447
+131	('PGPC-50', '3.saliva_enriched')	INDEL	PASS	Precision	HROM	0.954452
+132	('PGPC-50', '3.saliva_enriched')	INDEL	PASS	Recall	eHOMD	0.952476
+133	('PGPC-50', '3.saliva_enriched')	INDEL	PASS	Recall	Raw	0.952523
+134	('PGPC-50', '3.saliva_enriched')	INDEL	PASS	Recall	HROM	0.952492
+135	('PGPC-50', '4.buccal_enriched')	INDEL	PASS	F1 Score	eHOMD	0.959979
+136	('PGPC-50', '4.buccal_enriched')	INDEL	PASS	F1 Score	Raw	0.959981
+137	('PGPC-50', '4.buccal_enriched')	INDEL	PASS	F1 Score	HROM	0.959988
+138	('PGPC-50', '4.buccal_enriched')	INDEL	PASS	Precision	eHOMD	0.966943
+139	('PGPC-50', '4.buccal_enriched')	INDEL	PASS	Precision	Raw	0.966966
+140	('PGPC-50', '4.buccal_enriched')	INDEL	PASS	Precision	HROM	0.96697
+141	('PGPC-50', '4.buccal_enriched')	INDEL	PASS	Recall	eHOMD	0.953115
+142	('PGPC-50', '4.buccal_enriched')	INDEL	PASS	Recall	Raw	0.953096
+143	('PGPC-50', '4.buccal_enriched')	INDEL	PASS	Recall	HROM	0.953106

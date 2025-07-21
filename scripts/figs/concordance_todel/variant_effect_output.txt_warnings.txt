@@ -1,0 +1,6 @@
+WARNING: Failed to instantiate plugin PolyPhen_SIFT: install_driver(SQLite) failed: Can't locate DBD/SQLite.pm in @INC (you may need to install the DBD::SQLite module) (@INC contains: /home/zunuan/.vep/Plugins /nbl/vault2/home/zunuan/anaconda3/envs/vep/share/ensembl-vep-113.3-1/modules /nbl/vault2/home/zunuan/anaconda3/envs/vep/share/ensembl-vep-113.3-1 /home/zunuan/perl5/lib/perl5/x86_64-linux-thread-multi /home/zunuan/perl5/lib/perl5 /nbl/vault2/home/zunuan/anaconda3/envs/vep/lib/perl5/5.32/site_perl /nbl/vault2/home/zunuan/anaconda3/envs/vep/lib/perl5/site_perl /nbl/vault2/home/zunuan/anaconda3/envs/vep/lib/perl5/5.32/vendor_perl /nbl/vault2/home/zunuan/anaconda3/envs/vep/lib/perl5/vendor_perl /nbl/vault2/home/zunuan/anaconda3/envs/vep/lib/perl5/5.32/core_perl /nbl/vault2/home/zunuan/anaconda3/envs/vep/lib/perl5/core_perl .) at (eval 54) line 3.
+Perhaps the DBD::SQLite perl module hasn't been fully installed,
+or perhaps the capitalisation of 'SQLite' isn't right.
+Available drivers: DBM, ExampleP, File, Gofer, Mem, Proxy, Sponge, mysql.
+ at /nbl/vault2/home/zunuan/anaconda3/envs/vep/share/ensembl-vep-113.3-1/PolyPhen_SIFT.pm line 166.
+

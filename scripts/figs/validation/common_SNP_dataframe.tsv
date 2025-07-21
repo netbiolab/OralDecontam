@@ -1,0 +1,145 @@
+	Key	Type	Filter	Metric	Group	Value
+0	('PGPC-02', '1.saliva')	SNP	PASS	F1 Score	Raw	0.991596
+1	('PGPC-02', '1.saliva')	SNP	PASS	F1 Score	HROM	0.991588
+2	('PGPC-02', '1.saliva')	SNP	PASS	F1 Score	eHOMD	0.991597
+3	('PGPC-02', '1.saliva')	SNP	PASS	Precision	Raw	0.991681
+4	('PGPC-02', '1.saliva')	SNP	PASS	Precision	HROM	0.991678
+5	('PGPC-02', '1.saliva')	SNP	PASS	Precision	eHOMD	0.991685
+6	('PGPC-02', '1.saliva')	SNP	PASS	Recall	Raw	0.991512
+7	('PGPC-02', '1.saliva')	SNP	PASS	Recall	HROM	0.991498
+8	('PGPC-02', '1.saliva')	SNP	PASS	Recall	eHOMD	0.991509
+9	('PGPC-02', '2.buccal')	SNP	PASS	F1 Score	Raw	0.990735
+10	('PGPC-02', '2.buccal')	SNP	PASS	F1 Score	HROM	0.990737
+11	('PGPC-02', '2.buccal')	SNP	PASS	F1 Score	eHOMD	0.990738
+12	('PGPC-02', '2.buccal')	SNP	PASS	Precision	Raw	0.990145
+13	('PGPC-02', '2.buccal')	SNP	PASS	Precision	HROM	0.990143
+14	('PGPC-02', '2.buccal')	SNP	PASS	Precision	eHOMD	0.990146
+15	('PGPC-02', '2.buccal')	SNP	PASS	Recall	Raw	0.991327
+16	('PGPC-02', '2.buccal')	SNP	PASS	Recall	HROM	0.991331
+17	('PGPC-02', '2.buccal')	SNP	PASS	Recall	eHOMD	0.991331
+18	('PGPC-02', '3.saliva_enriched')	SNP	PASS	F1 Score	Raw	0.991799
+19	('PGPC-02', '3.saliva_enriched')	SNP	PASS	F1 Score	HROM	0.991797
+20	('PGPC-02', '3.saliva_enriched')	SNP	PASS	F1 Score	eHOMD	0.991805
+21	('PGPC-02', '3.saliva_enriched')	SNP	PASS	Precision	Raw	0.991961
+22	('PGPC-02', '3.saliva_enriched')	SNP	PASS	Precision	HROM	0.991973
+23	('PGPC-02', '3.saliva_enriched')	SNP	PASS	Precision	eHOMD	0.991982
+24	('PGPC-02', '3.saliva_enriched')	SNP	PASS	Recall	Raw	0.991638
+25	('PGPC-02', '3.saliva_enriched')	SNP	PASS	Recall	HROM	0.991621
+26	('PGPC-02', '3.saliva_enriched')	SNP	PASS	Recall	eHOMD	0.991627
+27	('PGPC-02', '4.buccal_enriched')	SNP	PASS	F1 Score	Raw	0.991204
+28	('PGPC-02', '4.buccal_enriched')	SNP	PASS	F1 Score	HROM	0.991213
+29	('PGPC-02', '4.buccal_enriched')	SNP	PASS	F1 Score	eHOMD	0.991215
+30	('PGPC-02', '4.buccal_enriched')	SNP	PASS	Precision	Raw	0.990481
+31	('PGPC-02', '4.buccal_enriched')	SNP	PASS	Precision	HROM	0.990493
+32	('PGPC-02', '4.buccal_enriched')	SNP	PASS	Precision	eHOMD	0.990499
+33	('PGPC-02', '4.buccal_enriched')	SNP	PASS	Recall	Raw	0.991928
+34	('PGPC-02', '4.buccal_enriched')	SNP	PASS	Recall	HROM	0.991935
+35	('PGPC-02', '4.buccal_enriched')	SNP	PASS	Recall	eHOMD	0.991932
+36	('PGPC-05', '1.saliva')	SNP	PASS	F1 Score	Raw	0.988772
+37	('PGPC-05', '1.saliva')	SNP	PASS	F1 Score	HROM	0.988925
+38	('PGPC-05', '1.saliva')	SNP	PASS	F1 Score	eHOMD	0.988932
+39	('PGPC-05', '1.saliva')	SNP	PASS	Precision	Raw	0.987767
+40	('PGPC-05', '1.saliva')	SNP	PASS	Precision	HROM	0.988027
+41	('PGPC-05', '1.saliva')	SNP	PASS	Precision	eHOMD	0.988036
+42	('PGPC-05', '1.saliva')	SNP	PASS	Recall	Raw	0.989779
+43	('PGPC-05', '1.saliva')	SNP	PASS	Recall	HROM	0.989824
+44	('PGPC-05', '1.saliva')	SNP	PASS	Recall	eHOMD	0.989829
+45	('PGPC-05', '2.buccal')	SNP	PASS	F1 Score	Raw	0.990489
+46	('PGPC-05', '2.buccal')	SNP	PASS	F1 Score	HROM	0.990489
+47	('PGPC-05', '2.buccal')	SNP	PASS	F1 Score	eHOMD	0.990499
+48	('PGPC-05', '2.buccal')	SNP	PASS	Precision	Raw	0.990318
+49	('PGPC-05', '2.buccal')	SNP	PASS	Precision	HROM	0.990312
+50	('PGPC-05', '2.buccal')	SNP	PASS	Precision	eHOMD	0.990327
+51	('PGPC-05', '2.buccal')	SNP	PASS	Recall	Raw	0.99066
+52	('PGPC-05', '2.buccal')	SNP	PASS	Recall	HROM	0.990667
+53	('PGPC-05', '2.buccal')	SNP	PASS	Recall	eHOMD	0.990671
+54	('PGPC-05', '3.saliva_enriched')	SNP	PASS	F1 Score	Raw	0.990337
+55	('PGPC-05', '3.saliva_enriched')	SNP	PASS	F1 Score	HROM	0.990372
+56	('PGPC-05', '3.saliva_enriched')	SNP	PASS	F1 Score	eHOMD	0.990377
+57	('PGPC-05', '3.saliva_enriched')	SNP	PASS	Precision	Raw	0.990322
+58	('PGPC-05', '3.saliva_enriched')	SNP	PASS	Precision	HROM	0.990373
+59	('PGPC-05', '3.saliva_enriched')	SNP	PASS	Precision	eHOMD	0.990368
+60	('PGPC-05', '3.saliva_enriched')	SNP	PASS	Recall	Raw	0.990352
+61	('PGPC-05', '3.saliva_enriched')	SNP	PASS	Recall	HROM	0.990371
+62	('PGPC-05', '3.saliva_enriched')	SNP	PASS	Recall	eHOMD	0.990386
+63	('PGPC-05', '4.buccal_enriched')	SNP	PASS	F1 Score	Raw	0.990272
+64	('PGPC-05', '4.buccal_enriched')	SNP	PASS	F1 Score	HROM	0.99027
+65	('PGPC-05', '4.buccal_enriched')	SNP	PASS	F1 Score	eHOMD	0.990268
+66	('PGPC-05', '4.buccal_enriched')	SNP	PASS	Precision	Raw	0.990022
+67	('PGPC-05', '4.buccal_enriched')	SNP	PASS	Precision	HROM	0.99002
+68	('PGPC-05', '4.buccal_enriched')	SNP	PASS	Precision	eHOMD	0.990022
+69	('PGPC-05', '4.buccal_enriched')	SNP	PASS	Recall	Raw	0.990521
+70	('PGPC-05', '4.buccal_enriched')	SNP	PASS	Recall	HROM	0.99052
+71	('PGPC-05', '4.buccal_enriched')	SNP	PASS	Recall	eHOMD	0.990515
+72	('PGPC-06', '1.saliva')	SNP	PASS	F1 Score	Raw	0.991306
+73	('PGPC-06', '1.saliva')	SNP	PASS	F1 Score	HROM	0.991315
+74	('PGPC-06', '1.saliva')	SNP	PASS	F1 Score	eHOMD	0.99132
+75	('PGPC-06', '1.saliva')	SNP	PASS	Precision	Raw	0.991586
+76	('PGPC-06', '1.saliva')	SNP	PASS	Precision	HROM	0.9916
+77	('PGPC-06', '1.saliva')	SNP	PASS	Precision	eHOMD	0.991615
+78	('PGPC-06', '1.saliva')	SNP	PASS	Recall	Raw	0.991026
+79	('PGPC-06', '1.saliva')	SNP	PASS	Recall	HROM	0.99103
+80	('PGPC-06', '1.saliva')	SNP	PASS	Recall	eHOMD	0.991024
+81	('PGPC-06', '2.buccal')	SNP	PASS	F1 Score	Raw	0.991289
+82	('PGPC-06', '2.buccal')	SNP	PASS	F1 Score	HROM	0.991275
+83	('PGPC-06', '2.buccal')	SNP	PASS	F1 Score	eHOMD	0.99128
+84	('PGPC-06', '2.buccal')	SNP	PASS	Precision	Raw	0.991123
+85	('PGPC-06', '2.buccal')	SNP	PASS	Precision	HROM	0.991132
+86	('PGPC-06', '2.buccal')	SNP	PASS	Precision	eHOMD	0.991142
+87	('PGPC-06', '2.buccal')	SNP	PASS	Recall	Raw	0.991454
+88	('PGPC-06', '2.buccal')	SNP	PASS	Recall	HROM	0.991418
+89	('PGPC-06', '2.buccal')	SNP	PASS	Recall	eHOMD	0.991418
+90	('PGPC-06', '3.saliva_enriched')	SNP	PASS	F1 Score	Raw	0.991682
+91	('PGPC-06', '3.saliva_enriched')	SNP	PASS	F1 Score	HROM	0.991685
+92	('PGPC-06', '3.saliva_enriched')	SNP	PASS	F1 Score	eHOMD	0.991684
+93	('PGPC-06', '3.saliva_enriched')	SNP	PASS	Precision	Raw	0.991849
+94	('PGPC-06', '3.saliva_enriched')	SNP	PASS	Precision	HROM	0.991861
+95	('PGPC-06', '3.saliva_enriched')	SNP	PASS	Precision	eHOMD	0.991857
+96	('PGPC-06', '3.saliva_enriched')	SNP	PASS	Recall	Raw	0.991515
+97	('PGPC-06', '3.saliva_enriched')	SNP	PASS	Recall	HROM	0.991509
+98	('PGPC-06', '3.saliva_enriched')	SNP	PASS	Recall	eHOMD	0.991511
+99	('PGPC-06', '4.buccal_enriched')	SNP	PASS	F1 Score	Raw	0.991333
+100	('PGPC-06', '4.buccal_enriched')	SNP	PASS	F1 Score	HROM	0.991334
+101	('PGPC-06', '4.buccal_enriched')	SNP	PASS	F1 Score	eHOMD	0.991334
+102	('PGPC-06', '4.buccal_enriched')	SNP	PASS	Precision	Raw	0.991195
+103	('PGPC-06', '4.buccal_enriched')	SNP	PASS	Precision	HROM	0.991208
+104	('PGPC-06', '4.buccal_enriched')	SNP	PASS	Precision	eHOMD	0.991211
+105	('PGPC-06', '4.buccal_enriched')	SNP	PASS	Recall	Raw	0.991471
+106	('PGPC-06', '4.buccal_enriched')	SNP	PASS	Recall	HROM	0.99146
+107	('PGPC-06', '4.buccal_enriched')	SNP	PASS	Recall	eHOMD	0.991457
+108	('PGPC-50', '1.saliva')	SNP	PASS	F1 Score	Raw	0.989786
+109	('PGPC-50', '1.saliva')	SNP	PASS	F1 Score	HROM	0.990082
+110	('PGPC-50', '1.saliva')	SNP	PASS	F1 Score	eHOMD	0.990085
+111	('PGPC-50', '1.saliva')	SNP	PASS	Precision	Raw	0.988943
+112	('PGPC-50', '1.saliva')	SNP	PASS	Precision	HROM	0.989474
+113	('PGPC-50', '1.saliva')	SNP	PASS	Precision	eHOMD	0.989472
+114	('PGPC-50', '1.saliva')	SNP	PASS	Recall	Raw	0.990632
+115	('PGPC-50', '1.saliva')	SNP	PASS	Recall	HROM	0.990691
+116	('PGPC-50', '1.saliva')	SNP	PASS	Recall	eHOMD	0.990699
+117	('PGPC-50', '2.buccal')	SNP	PASS	F1 Score	Raw	0.991428
+118	('PGPC-50', '2.buccal')	SNP	PASS	F1 Score	HROM	0.991442
+119	('PGPC-50', '2.buccal')	SNP	PASS	F1 Score	eHOMD	0.991438
+120	('PGPC-50', '2.buccal')	SNP	PASS	Precision	Raw	0.99112
+121	('PGPC-50', '2.buccal')	SNP	PASS	Precision	HROM	0.991149
+122	('PGPC-50', '2.buccal')	SNP	PASS	Precision	eHOMD	0.991137
+123	('PGPC-50', '2.buccal')	SNP	PASS	Recall	Raw	0.991736
+124	('PGPC-50', '2.buccal')	SNP	PASS	Recall	HROM	0.991736
+125	('PGPC-50', '2.buccal')	SNP	PASS	Recall	eHOMD	0.99174
+126	('PGPC-50', '3.saliva_enriched')	SNP	PASS	F1 Score	Raw	0.990765
+127	('PGPC-50', '3.saliva_enriched')	SNP	PASS	F1 Score	HROM	0.990783
+128	('PGPC-50', '3.saliva_enriched')	SNP	PASS	F1 Score	eHOMD	0.990778
+129	('PGPC-50', '3.saliva_enriched')	SNP	PASS	Precision	Raw	0.989983
+130	('PGPC-50', '3.saliva_enriched')	SNP	PASS	Precision	HROM	0.990005
+131	('PGPC-50', '3.saliva_enriched')	SNP	PASS	Precision	eHOMD	0.990006
+132	('PGPC-50', '3.saliva_enriched')	SNP	PASS	Recall	Raw	0.991549
+133	('PGPC-50', '3.saliva_enriched')	SNP	PASS	Recall	HROM	0.991561
+134	('PGPC-50', '3.saliva_enriched')	SNP	PASS	Recall	eHOMD	0.991552
+135	('PGPC-50', '4.buccal_enriched')	SNP	PASS	F1 Score	Raw	0.991667
+136	('PGPC-50', '4.buccal_enriched')	SNP	PASS	F1 Score	HROM	0.99166
+137	('PGPC-50', '4.buccal_enriched')	SNP	PASS	F1 Score	eHOMD	0.991661
+138	('PGPC-50', '4.buccal_enriched')	SNP	PASS	Precision	Raw	0.991586
+139	('PGPC-50', '4.buccal_enriched')	SNP	PASS	Precision	HROM	0.991584
+140	('PGPC-50', '4.buccal_enriched')	SNP	PASS	Precision	eHOMD	0.99159
+141	('PGPC-50', '4.buccal_enriched')	SNP	PASS	Recall	Raw	0.991749
+142	('PGPC-50', '4.buccal_enriched')	SNP	PASS	Recall	HROM	0.991736
+143	('PGPC-50', '4.buccal_enriched')	SNP	PASS	Recall	eHOMD	0.991731
