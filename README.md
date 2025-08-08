@@ -15,10 +15,14 @@ Ideal for oral samples (e.g. saliva, buccal swab) before alignment for genotpyin
 
 - Python 3.7+
 - [`Kraken2`](https://github.com/DerrickWood/kraken2) installed and in `$PATH`
-- Optional: `wget`, `curl`, or `aria2c` for DB download
+- `wget`, `curl`, or `aria2c` for DB download
 
-## Installation
+## Download
 
+Alternatively, you can download the kraken2 DB via
+```
+wget https://www.decodebiome.org/HROM/data/genome_catalog/decontamination_HROM.tar.gz
+```
 Clone the repository:
 
 ```bash
